@@ -1,6 +1,7 @@
 # Promo Développeur Web et Web Mobile de St Quentin 👋
 
 ## Languages & Tools 
+![imgGit](./profile/img/git.svg)&nbsp;&nbsp;
 
 <!--
 
