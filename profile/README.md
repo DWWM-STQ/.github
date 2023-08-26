@@ -2,6 +2,12 @@
 
 ## Languages & Tools 
 ![imgGit](./profile/img/git.svg)&nbsp;&nbsp;
+![imgVscode](./profile/img/vscode.svg)&nbsp;&nbsp;
+![imgFigma](./profile/img/figma.svg)&nbsp;&nbsp;
+![imgHtml](./profile/img/html.svg) &nbsp;&nbsp;
+![imgCSS](./profile/img/css.svg)&nbsp;&nbsp;
+![imgBootStrap](./profile/img/bootstrap.svg)&nbsp;&nbsp; 
+![imgPhpMyAdmin](./profile/img/PhpMyAdmin.svg)&nbsp;&nbsp;
 
 <!--
 
