@@ -13,6 +13,8 @@
 Développer la partie Back-End d'une application Web  
 ou Web Mobile en intégrant les recommandations de sécurité 
 
+|Developer|GitHub| ECF |
+
 
 <!--
 
