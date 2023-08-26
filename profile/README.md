@@ -25,6 +25,7 @@ ou Web Mobile en intégrant les recommandations de sécurité
 |Johan & Imène|
 
 ## Briefs - ECF
+* [Gestion d'un club de foot](https://github.com/DWWM-STQ/Brief_ClubDeFoot.git)
 
 <!--
 
