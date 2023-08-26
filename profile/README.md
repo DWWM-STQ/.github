@@ -27,6 +27,10 @@ ou Web Mobile en intégrant les recommandations de sécurité
 ## Briefs - ECF
 * [Gestion d'un club de foot](https://github.com/DWWM-STQ/Brief_ClubDeFoot.git)
 * [Les chaussures](https://github.com/DWWM-STQ/Brief_ClubDeFoot.git)
+* [Les recettes](https://github.com/DWWM-STQ/Brief_ClubDeFoot.git)
+* [Location de voiture](https://github.com/DWWM-STQ/Brief_ClubDeFoot.git)
+* [La bibliothèque](https://github.com/DWWM-STQ/Brief_ClubDeFoot.git)
+* [Dossier patient](https://github.com/DWWM-STQ/Brief_ClubDeFoot.git)
 
 <!--
 
