@@ -7,6 +7,7 @@
 ![imgHtml](./profile/img/html.svg) &nbsp;&nbsp;
 ![imgCSS](./profile/img/css.svg)&nbsp;&nbsp;
 ![imgBootStrap](./profile/img/bootstrap.svg)&nbsp;&nbsp; 
+![imgPhp](./profile/img/php2.svg)&nbsp;&nbsp;
 ![imgPhpMyAdmin](./profile/img/PhpMyAdmin.svg)&nbsp;&nbsp;
 
 # CCP2 - Back - End
