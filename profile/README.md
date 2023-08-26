@@ -17,8 +17,7 @@ ou Web Mobile en intégrant les recommandations de sécurité
 |Developer|GitHub| ECF - BACK END  |
 | --------- |:------:|:-----:|
  Binôme|![imgGit](./profile/img/git.svg)| ![imgFigma](./profile/img/figma.svg)&nbsp;![imgBootStrap](./profile/img/bootstrap.svg)&nbsp; ![imgPHP](./profile/img/php2.svg)&nbsp;![imgPhpMyAdmin](./profile/img/PhpMyAdmin.svg)&nbsp;|
-
- |Alexis & Mohamad |
+|Alexis|
 
 
 <!--
