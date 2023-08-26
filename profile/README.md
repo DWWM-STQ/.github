@@ -15,6 +15,7 @@ ou Web Mobile en intégrant les recommandations de sécurité
 
 |Developer|GitHub| ECF - BACK END  |
 | --------- |:------:|:-----:|
+||![imgGit](./profile/img/git.svg)|
 
 
 <!--
