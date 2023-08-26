@@ -16,7 +16,7 @@ ou Web Mobile en intégrant les recommandations de sécurité
 
 |Developer|GitHub| ECF - BACK END  |
 | --------- |:------:|:-----:|
-||![imgGit](./profile/img/git.svg)| ![imgFigma](./profile/img/figma.svg)&nbsp;![imgBootStrap](./profile/img/php2.svg)&nbsp;|
+||![imgGit](./profile/img/git.svg)| ![imgFigma](./profile/img/figma.svg)&nbsp;![imgBootStrap](./profile/img/bootstrap.svg)&nbsp;|
 
 
 <!--
