@@ -22,7 +22,7 @@ ou Web Mobile en intégrant les recommandations de sécurité
 |Alvin & Amandine|
 |Clément & Jimmy|
 |Damien & Jean-Bernard| <a href="">🔗</a> | <a href="https://github.com/DWWM-STQ/BibliotheKa.git">🔗</a> |
-|Imene & Johan| <a href="">🔗</a> | <a href="https://github.com/DWWM-STQ/CHAUSS-EXPRESS.git">🔗</a> |
+|Imene & Johan| <a href="">🔗</a> | <a href="https://github.com/DWWM-STQ/myDoc.git">🔗</a> |
 
 ## Briefs - ECF
 * [Gestion d'un club de foot](https://github.com/DWWM-STQ/Brief_ClubDeFoot.git)
