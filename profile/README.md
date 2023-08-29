@@ -21,7 +21,7 @@ ou Web Mobile en intégrant les recommandations de sécurité
 |Alexy & Logan|
 |Alvin & Amandine|
 |Clément & Jimmy|
-|Damien & Jean-Bernard|
+|Damien & Jean-Bernard| <a href="">🔗</a> |
 |Johan & Imène|
 
 ## Briefs - ECF
