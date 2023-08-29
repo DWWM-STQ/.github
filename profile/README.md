@@ -18,7 +18,7 @@ ou Web Mobile en intégrant les recommandations de sécurité
 |:---------:|:------:|:-----:|
  Binômes|![imgGit](./profile/img/git.svg)| ![imgFigma](./profile/img/figma.svg)&nbsp;![imgBootStrap](./profile/img/bootstrap.svg)&nbsp; ![imgPHP](./profile/img/php2.svg)&nbsp;![imgPhpMyAdmin](./profile/img/PhpMyAdmin.svg)&nbsp;|
 |Alexis & Mohamad|
-|Alexy & Logan|
+|Alexy & Logan| <a href="">🔗</a> | <a href="https://github.com/DWWM-STQ/CHAUSS-EXPRESS.git">🔗</a> |
 |Alvin & Amandine|
 |Clément & Jimmy|
 |Damien & Jean-Bernard| <a href="">🔗</a> | <a href="https://github.com/DWWM-STQ/BibliotheKa.git">🔗</a> |
