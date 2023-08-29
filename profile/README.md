@@ -21,7 +21,7 @@ ou Web Mobile en intégrant les recommandations de sécurité
 |Alexy & Logan|
 |Alvin & Amandine|
 |Clément & Jimmy|
-|Damien & Jean-Bernard| <a href="">🔗</a> |
+|Damien & Jean-Bernard| <a href="">🔗</a> | <a href="https://github.com/DWWM-STQ/BibliotheKa.git">🔗</a> |
 |Johan & Imène|
 
 ## Briefs - ECF
