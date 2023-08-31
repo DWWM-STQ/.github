@@ -20,7 +20,7 @@ ou Web Mobile en intégrant les recommandations de sécurité
 |Alexis & Mohamad|
 |Alexy & Logan| <a href="">🔗</a> | <a href="https://github.com/DWWM-STQ/CHAUSS-EXPRESS.git">🔗</a> |
 |Alvin & Amandine|
-|Clément & Jimmy|
+|Clément & Jimmy| <a href="">🔗</a> | <a href="https://github.com/DWWM-STQ/Location.git">🔗</a> |
 |Damien & Jean-Bernard| <a href="">🔗</a> | <a href="https://github.com/DWWM-STQ/BibliotheKa.git">🔗</a> |
 |Imene & Johan| <a href="">🔗</a> | <a href="https://github.com/DWWM-STQ/myDoc.git">🔗</a> |
 
