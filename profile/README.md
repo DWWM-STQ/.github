@@ -19,10 +19,11 @@ ou Web Mobile en intégrant les recommandations de sécurité
  Binômes|![imgGit](./profile/img/git.svg)| ![imgFigma](./profile/img/figma.svg)&nbsp;![imgBootStrap](./profile/img/bootstrap.svg)&nbsp; ![imgPHP](./profile/img/php2.svg)&nbsp;![imgPhpMyAdmin](./profile/img/PhpMyAdmin.svg)&nbsp;|
 |Alexis & Mohamad| <a href="">🔗</a> | <a href="https://github.com/DWWM-STQ/ActuFoot.git">🔗</a> |
 |Alexy & Logan| <a href="">🔗</a> | <a href="https://github.com/DWWM-STQ/CHAUSS-EXPRESS.git">🔗</a> |
-|Alvin & Amandine|
+|Alvin & Amandine| <a href="">🔗</a> | <a href="https://github.com/DWWM-STQ/recette.git">🔗</a> |
 |Clément & Jimmy| <a href="">🔗</a> | <a href="https://github.com/DWWM-STQ/Location.git">🔗</a> |
 |Damien & Jean-Bernard| <a href="">🔗</a> | <a href="https://github.com/DWWM-STQ/BibliotheKa.git">🔗</a> |
 |Imene & Johan| <a href="">🔗</a> | <a href="https://github.com/DWWM-STQ/myDoc.git">🔗</a> |
+
 
 ## Briefs - ECF
 * [Gestion d'un club de foot](https://github.com/DWWM-STQ/Brief_ClubDeFoot.git)
